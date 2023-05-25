@@ -21,7 +21,7 @@ are displayed by using a pretty table.
 Virus Total (VT) Notes: 
 
 *For obvious reasons, like preventing abuse related to my own personal VT API key, I've ommitted mine
-from this script. You should place your own VT API key in it's place*
+from this script. You should place your own VT API key in it's place.*
 
 Example VT output: “The requested resource is not among the finished, queued or pending scans” >> means that the file's hash or file 
 was never previously submitted to VT. 
